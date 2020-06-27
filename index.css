@@ -49,7 +49,7 @@ body {
   display: flex;
   flex-direction: column;
   align-content: center;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 
 #social>:first-child h2 {
