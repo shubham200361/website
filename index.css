@@ -57,7 +57,7 @@ body {
 }
 
 #social>:first-child div {
-  margin-top: 50px;
+  margin-top: 30px;
   display: flex;
   justify-content: space-evenly;
   font-size: 1.8rem;
